@@ -16,7 +16,7 @@
           <input type=submit name=submit text=soma>
         </form>";
         
-        
+               
         
         $a = $_POST["a"];
         $b = $_POST["b"];
